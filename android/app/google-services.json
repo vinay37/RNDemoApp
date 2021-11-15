@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "606834864054",
+    "project_id": "rndemoapp-15d50",
+    "storage_bucket": "rndemoapp-15d50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606834864054:android:7a1bbbbf6dddbf09ef1b17",
+        "android_client_info": {
+          "package_name": "com.rndemoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606834864054-jaun5oq2smmto3rkbbekchq70n741nkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJv8FoNE3l3JNOqbGA203SJIsnDydVas8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606834864054-jaun5oq2smmto3rkbbekchq70n741nkd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
